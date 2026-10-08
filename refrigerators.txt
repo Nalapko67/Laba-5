@@ -1,0 +1,3 @@
+bosh seria 4,32000.0,280.0,Bosh
+Samsung Bespoke,64000.0,390.0,Samsung
+LG Side-by-Side,78000.0,590.0,LG
